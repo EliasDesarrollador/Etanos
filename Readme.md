@@ -1,5 +1,5 @@
 
-# 📚📝 Documentación del Mini sistema operativo 🖥️
+# 📚📝 Documentación del Mini sistema operativo Etanos 🖥️
 ##Emulador QEMU 
 #Ruta de Instalación :
 C:\Program Files\qemu
@@ -19,6 +19,7 @@ C:\Users\Dell Latitude 5290\AppData\Local\bin\NASM
 C:\Users\Dell Latitude 5290\AppData\Local\bin\NASM\nasm.exe -fbin etanos.asm
 
 # 🗂️📝 Ficheros 
+
 
 keymap.inc
 
