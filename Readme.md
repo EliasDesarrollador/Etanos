@@ -1,5 +1,8 @@
 
 # 📚📝 Documentación del Mini sistema operativo Etanos 🖥️
+
+<img width="622" height="532" alt="image" src="https://github.com/user-attachments/assets/4818e6da-da32-48da-b1f8-aa973d611aee" />
+
 ##Emulador QEMU 
 #Ruta de Instalación :
 C:\Program Files\qemu
