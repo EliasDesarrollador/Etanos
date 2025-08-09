@@ -28,3 +28,7 @@ keymap.inc
 
 
 etanos.asm
+
+etanos.img  // la imagen ISO 
+
+.bat  // un bot para agilizar el arranque del sistema operativo 
